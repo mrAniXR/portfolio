@@ -145,9 +145,9 @@ nav span{
 			padding: 20px;
 		}
 		.profile-image{
-			width: 33%;
+			width: 40%;
 			position: absolute;
-			top: 73.5%;
+			top: 75%;
 			left: 25%;
 			transform: translate(25%, -30%);
 
