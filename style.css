@@ -147,7 +147,7 @@ nav span{
 		.profile-image{
 			width: 45%;
 			position: absolute;
-			top: 50%;
+			top: 100%;
 			left: 25%;
 			transform: translate(25%, -30%);
 
